@@ -1,0 +1,2 @@
+rootProject.name='TestAeppJava'
+include ':app'
